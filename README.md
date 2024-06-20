@@ -1,16 +1,50 @@
 # pettopia
 
-A new Flutter project.
+Project Aplikasi Flutter Pettopia. Merupakan project aplikasi penjualan hewan online. Project ini untuk memenuhi tugas akhir mata kuliah Pemrograman Mobile II.
 
-## Getting Started
+## Tampilan Aplikasi
 
-This project is a starting point for a Flutter application.
+- Tampilan Login
+  ![Img 4](screenshot/4.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+- Tampilan Dashbord
+  ![Img 1](screenshot/1.jpg)
+  ![Img 5](screenshot/5.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Tampilan Kategori
+  ![Img 3](screenshot/3.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Tampilan pembelian
+  ![Img 8](screenshot/8.jpg)
+
+- Tampilan Pesanan
+  ![Img 6](screenshot/6.jpg)
+
+## Requirement
+
+- Flutter
+- Dart Language
+- Flutter Framework
+- Android Studio IDE
+
+## Instalation
+
+cole aplikasi menggunakan kode berikut:
+...
+git clone https://github.com/riosetiawann/ApkFlutter_Pettopia.git
+...
+
+Masuk ke direktori project
+...
+cd ApkFlutter_Pettopia
+...
+
+install dependencies
+...
+flutter pub get
+...
+
+start aplikasi
+...
+flutter run
+...
