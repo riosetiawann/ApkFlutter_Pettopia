@@ -5,19 +5,24 @@ Project Aplikasi Flutter Pettopia. Merupakan project aplikasi penjualan hewan on
 ## Tampilan Aplikasi
 
 - Tampilan Login
+
   ![Img 4](screenshot/4.jpg)
 
 - Tampilan Dashbord
+
   ![Img 1](screenshot/1.jpg)
   ![Img 5](screenshot/5.jpg)
 
 - Tampilan Kategori
+
   ![Img 3](screenshot/3.jpg)
 
 - Tampilan pembelian
+
   ![Img 8](screenshot/8.jpg)
 
 - Tampilan Pesanan
+
   ![Img 6](screenshot/6.jpg)
 
 ## Requirement
@@ -30,21 +35,25 @@ Project Aplikasi Flutter Pettopia. Merupakan project aplikasi penjualan hewan on
 ## Instalation
 
 cole aplikasi menggunakan kode berikut:
-'''
+
+```bash
 git clone https://github.com/riosetiawann/ApkFlutter_Pettopia.git
-'''
+```
 
 Masuk ke direktori project
-...
+
+```bash
 cd ApkFlutter_Pettopia
-...
+```
 
 install dependencies
-...
+
+```bash
 flutter pub get
-...
+```
 
 start aplikasi
-...
+
+```bash
 flutter run
-...
+```
