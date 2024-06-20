@@ -30,9 +30,9 @@ Project Aplikasi Flutter Pettopia. Merupakan project aplikasi penjualan hewan on
 ## Instalation
 
 cole aplikasi menggunakan kode berikut:
-...
+'''
 git clone https://github.com/riosetiawann/ApkFlutter_Pettopia.git
-...
+'''
 
 Masuk ke direktori project
 ...
